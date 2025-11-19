@@ -1,5 +1,4 @@
-**<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/465a07c1-fb3e-426a-a0e3-34aa219b171d" />
-**<div align="center">
+<div align="center">
   <img height="200" src="https://i.ibb.co/Lhn5qRKJ/Abstract-Technology-Profile-Linked-In-Banner-1.png"  />
 </div>  
 
