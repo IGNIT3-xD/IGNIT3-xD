@@ -26,13 +26,12 @@ Creating beautiful UI, optimizing performance, and constantly learning new techn
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=IGNIT3-xD&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=IGNIT3-xD&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>  
+
+<div align="center">
+  <img width="676" height="352" alt="image" src="https://github.com/user-attachments/assets/fe719b43-0bbd-41c0-83f8-d93852fdb29f" />  
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/IGNIT3-xD/IGNIT3-xD/output/snake.svg" alt="Github Contributes" />
-
-###  
 ## Contact
 
 For inquiries, collaborations, or feedback, please contact me via:
@@ -41,4 +40,8 @@ For inquiries, collaborations, or feedback, please contact me via:
 **Facebook:** https://www.facebook.com/IGNIT3  
 **X:** https://x.com/Mimran65789385  
 
-Let's connect and discuss exciting opportunities!
+Let's connect and discuss exciting opportunities!  
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=IGNIT3-xD.IGNIT3-xD&"  />
+</div>
