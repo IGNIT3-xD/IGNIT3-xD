@@ -39,7 +39,7 @@ For inquiries, collaborations, or feedback, please contact me via:
 **Email:** md.imranali2046@gmail.com  
 **Facebook:** https://www.facebook.com/IGNIT3  
 **X:** https://x.com/Mimran65789385  
-**Linkedin**: https://www.linkedin.com/in/imran-ali-mern/
+**Linkedin**: https://www.linkedin.com/in/imran-ali-mern/  
 Let's connect and discuss exciting opportunities!  
 
 <div align="center">
