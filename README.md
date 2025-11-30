@@ -1,6 +1,6 @@
-<div align="center">
-  <img height="200" src="https://i.ibb.co/Lhn5qRKJ/Abstract-Technology-Profile-Linked-In-Banner-1.png"  />
-</div>  
+<p align="center">
+  <img src="https://i.ibb.co/Lhn5qRKJ/Abstract-Technology-Profile-Linked-In-Banner-1.png" width="100%" />
+</p>
 
 ## 👋 Hi, I'm Imran  
 I'm a passionate **Frontend Web Developer** who loves building clean, responsive, and interactive user experiences. I enjoy turning ideas into reality using modern web technologies.
