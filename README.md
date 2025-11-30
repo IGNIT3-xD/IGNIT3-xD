@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co/Lhn5qRKJ/Abstract-Technology-Profile-Linked-In-Banner-1.png" width="100%" />
+  <img src="./Banner.png" width="100%" />
 </p>
 
 ## 👋 Hi, I'm Imran  
