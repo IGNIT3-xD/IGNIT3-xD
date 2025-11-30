@@ -8,6 +8,7 @@ I'm a passionate **Frontend Web Developer** who loves building clean, responsive
 ### 🌱 What I'm Currently Learning  
 - Advanced React patterns  
 - Backend architecture & API design  
+- Next.js  
 
 ### 💡 What I Love  
 Creating beautiful UI, optimizing performance, and constantly learning new technologies to improve my craft.  
