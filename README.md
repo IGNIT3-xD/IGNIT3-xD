@@ -3,12 +3,11 @@
 </p>
 
 ## 👋 Hi, I'm Imran  
-I'm a passionate **Frontend Web Developer** who loves building clean, responsive, and interactive user experiences. I enjoy turning ideas into reality using modern web technologies.
+I'm a passionate **Full Stack Web Developer** who loves building clean, responsive, and interactive user experiences. I enjoy turning ideas into reality using modern web technologies.
 
-### 🌱 What I'm Currently Learning  
-- Advanced React patterns  
+### 🌱 What I'm Currently Learning    
 - Backend architecture & API design  
-- Next.js  
+- PostgreSQL and Advance auth system
 
 ### 💡 What I Love  
 Creating beautiful UI, optimizing performance, and constantly learning new technologies to improve my craft.  
