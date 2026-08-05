@@ -34,7 +34,7 @@ Duration: 5 Months
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=IGNIT3-xD&layout=compact&theme=radical)    
 
 
-## Contact
+## ☎ Contact
 
 For inquiries, collaborations, or feedback, please contact me via:
 
