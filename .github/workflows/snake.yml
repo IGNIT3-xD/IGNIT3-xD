@@ -5,22 +5,21 @@ on:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      
       - name: Generate snake animation
-        uses: Platane/snk@master
+        uses: Platane/snk@v3
+        id: snake-gif
         with:
           github_user_name: IGNIT3-xD
-          svg_out_size: 1000x90
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      
-      - name: Push changes
+          svg_out_path: dist/github-contribution-grid-snake.svg
+
+      - name: Push generated files
         uses: EndBug/add-and-commit@v9
         with:
           message: 'Generate Contribution Snake'
