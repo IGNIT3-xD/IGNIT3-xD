@@ -27,16 +27,16 @@ Duration: 5 Months
 | **Backend** | [![My Skills](https://skillicons.dev/icons?i=nodejs,express,prisma)](https://skillicons.dev)
 | **Database** | [![My Skills](https://skillicons.dev/icons?i=mongodb,postgres)](https://skillicons.dev)
 | **Tools & Platforms** | [![My Skills](https://skillicons.dev/icons?i=git,github,vercel,postman,npm)](https://skillicons.dev)
+  
+### 📊 GitHub Stats  
 
-### 📊 Github Stats  
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IGNIT3-xD&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=IGNIT3-xD&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>  
+![GitHub Stats Snake Animation](https://raw.githubusercontent.com/IGNIT3-xD/IGNIT3-xD/output/github-contribution-grid-snake-dark.svg)
 
-<div align="center">
-  <img width="676" height="352" alt="image" src="https://github.com/user-attachments/assets/fe719b43-0bbd-41c0-83f8-d93852fdb29f" />  
-</div>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=IGNIT3-xD&show_icons=true&theme=dark" alt="GitHub Stats" />
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=IGNIT3-xD&layout=compact&theme=dark" alt="Top Languages" />
+
+<br><br><br><br><br><br>
 
 ## Contact
 
