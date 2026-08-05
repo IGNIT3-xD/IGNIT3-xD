@@ -28,9 +28,9 @@ Duration: 5 Months
 | **Database** | [![My Skills](https://skillicons.dev/icons?i=mongodb,postgres)](https://skillicons.dev)
 | **Tools & Platforms** | [![My Skills](https://skillicons.dev/icons?i=git,github,vercel,postman,npm)](https://skillicons.dev)
   
-### 📊 GitHub Stats  
+### 📊 Github Stats
 
-![GitHub Stats Snake Animation](https://raw.githubusercontent.com/IGNIT3-xD/IGNIT3-xD/output/github-contribution-grid-snake-dark.svg)
+![Snake Animation](https://raw.githubusercontent.com/IGNIT3-xD/IGNIT3-xD/main/dist/github-contribution-grid-snake-dark.svg)
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=IGNIT3-xD&show_icons=true&theme=dark" alt="GitHub Stats" />
 
