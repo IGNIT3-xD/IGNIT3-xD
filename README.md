@@ -30,7 +30,7 @@ Duration: 5 Months
   
 ### 📊 Github Stats
 
-![Snake Animation](https://raw.githubusercontent.com/IGNIT3-xD/IGNIT3-xD/main/dist/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/IGNIT3-xD/IGNIT3-xD/main/dist/github-contribution-grid-snake.svg)
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=IGNIT3-xD&show_icons=true&theme=dark" alt="GitHub Stats" />
 
