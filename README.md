@@ -6,8 +6,7 @@
 I'm a passionate **Full Stack Web Developer** who loves building clean, responsive, and interactive user experiences. I enjoy turning ideas into reality using modern web technologies.
 
 ### 🌱 What I'm Currently Learning    
-- Backend architecture & API design  
-- Prisma ORM
+- Advanced Backend architecture & API design  
 
 ### 💡 What I Love  
 Building scalable full-stack web applications with modern technologies, crafting intuitive and responsive user interfaces, developing robust backend systems, optimizing performance, and continuously exploring new tools and technologies to sharpen my skills.
@@ -28,15 +27,12 @@ Duration: 5 Months
 | **Database** | [![My Skills](https://skillicons.dev/icons?i=mongodb,postgres)](https://skillicons.dev)
 | **Tools & Platforms** | [![My Skills](https://skillicons.dev/icons?i=git,github,vercel,postman,npm)](https://skillicons.dev)
   
-### 📊 Github Stats
+## 📊 GitHub Stats
 
-![Snake animation](https://raw.githubusercontent.com/IGNIT3-xD/IGNIT3-xD/main/dist/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/IGNIT3-xD/IGNIT3-xD/blob/output/github-snake-dark.svg)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=IGNIT3-xD&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=IGNIT3-xD&layout=compact&theme=radical)    
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=IGNIT3-xD&show_icons=true&theme=dark" alt="GitHub Stats" />
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=IGNIT3-xD&layout=compact&theme=dark" alt="Top Languages" />
-
-<br><br><br><br><br><br>
 
 ## Contact
 
