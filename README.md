@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./Banner.png" width="100%" />
+  <img src="./imran-github-banner.svg" width="100%" />
 </p>
 
 ## 👋 Hi, I'm Imran  
