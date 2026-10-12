@@ -9,13 +9,7 @@ I'm a passionate **Full Stack Web Developer** who loves building clean, responsi
 - Advanced Backend architecture & API design  
 
 ### 💡 What I Love  
-Building scalable full-stack web applications with modern technologies, crafting intuitive and responsive user interfaces, developing robust backend systems, optimizing performance, and continuously exploring new tools and technologies to sharpen my skills.
-
-### 💼 Professional Experience
-I worked as a **Shopify developer** at Softvence Agency.  
-From Dec 25 to May 26  
-Duration: 5 Months
-
+Building scalable full-stack web applications with modern technologies, crafting intuitive and responsive user interfaces, developing robust backend systems, optimizing performance, and continuously exploring new tools and technologies to sharpen my skills.  
 
 ## 🛠️ Technologies & Tools
 
