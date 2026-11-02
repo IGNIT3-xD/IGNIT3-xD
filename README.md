@@ -16,7 +16,7 @@ Building scalable full-stack web applications with modern technologies, crafting
 | **Category** | **Technologies & Platforms** |
 |-------------|------------------|
 | **Languages** | [![My Skills](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev)
-| **Frontend** |  [![My Skills](https://skillicons.dev/icons?i=react,next,tailwind,html,css)](https://skillicons.dev)
+| **Frontend** |  [![My Skills](https://skillicons.dev/icons?i=react,next,redux,tailwind,html,css)](https://skillicons.dev)
 | **Backend** | [![My Skills](https://skillicons.dev/icons?i=nodejs,express,prisma)](https://skillicons.dev)
 | **Database** | [![My Skills](https://skillicons.dev/icons?i=mongodb,postgres,redis)](https://skillicons.dev)
 | **Tools & Platforms** | [![My Skills](https://skillicons.dev/icons?i=git,github,vercel,postman,npm)](https://skillicons.dev)
