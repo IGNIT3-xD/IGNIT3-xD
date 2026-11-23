@@ -3,13 +3,7 @@
 </p>
 
 ## 👋 Hi, I'm Imran  
-I'm a passionate **Full Stack Web Developer** who loves building clean, responsive, and interactive user experiences. I enjoy turning ideas into reality using modern web technologies.
-
-### 🌱 What I'm Currently Learning    
-- Advanced Backend architecture & API design  
-
-### 💡 What I Love  
-Building scalable full-stack web applications with modern technologies, crafting intuitive and responsive user interfaces, developing robust backend systems, optimizing performance, and continuously exploring new tools and technologies to sharpen my skills.  
+I'm a passionate **Full Stack Web Developer** who loves to building scalable full-stack web applications with modern technologies and continuously exploring new tools and technologies to sharpen my skills.  
 
 ## 🛠️ Technologies & Tools
 
